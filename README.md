@@ -1,5 +1,5 @@
-# DMM WEBCAMPコンテンツ【アプリケーションを完成させよう】
-DMM WEBCAMPの学習コンテンツアプリケーションを完成させようのです。
+# DMM WEBCAMPコンテンツ【アプリケーションを完成させよう】途中
+DMM WEBCAMPの学習コンテンツアプリケーションを完成させようの途中です。
 
 
 This README would normally document whatever steps are necessary to get the
